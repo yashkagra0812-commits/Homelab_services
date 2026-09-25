@@ -1,0 +1,5 @@
+{
+  "name": "HomeLab Care",
+  "description": "Home medical sample collection and lab diagnostic service with role-verified OTP login, live tracking, and report generation.",
+  "requestFramePermissions": []
+}

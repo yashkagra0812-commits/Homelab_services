@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277208243811",
+    "project_id": "homelab-care",
+    "storage_bucket": "homelab-care.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277208243811:android:75867dcc9c1c373fcf2256",
+        "android_client_info": {
+          "package_name": "com.homelabcare.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARqQqySUxzfMUuECsX0zXIpUMZ4oe2WX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
